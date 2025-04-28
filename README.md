@@ -13,8 +13,6 @@
 ## 📈 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=devpetrate&show_icons=true&theme=tokyonight)
 
-## 🏆 GitHub Trophies
-[![Trophy](https://github-profile-trophy.vercel.app/?username=devpetrate&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
