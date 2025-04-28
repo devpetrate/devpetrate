@@ -1,6 +1,6 @@
 # Hi there, I'm Petrate 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=devpetrate&style=flat-square)
 
 
 ## 🛠️ Skills
@@ -11,10 +11,10 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
 
 ## 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=devpetrate&show_icons=true&theme=tokyonight)
 
 ## 🏆 GitHub Trophies
-[![Trophy](https://github-profile-trophy.vercel.app/?username=yourusername&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophy](https://github-profile-trophy.vercel.app/?username=devpetrate&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
